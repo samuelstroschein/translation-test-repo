@@ -3,3 +3,8 @@ welcome = Welcome to the world of Python
     .golem = Golem is a tech news website.
 
 wordle = Play a game of wordle!
+
+
+nyc = 
+ .title = New York City
+ .abbreviation = NYC 
