@@ -5,6 +5,4 @@ wordle = Sunny a game of wordle!
 nyc =
     .title = New York City
     .abbreviation = NYC
-
-
 hello = Hello World!

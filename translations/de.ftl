@@ -3,3 +3,4 @@ welcome = Willkommen zu Python.
 wordle = Sunny ist ein Wordle Spiel.
 nyc =
     .abbreviation = NYC
+hello = Hallo Welt!
