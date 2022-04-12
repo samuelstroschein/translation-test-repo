@@ -6,3 +6,6 @@ nyc =
     .title = New York City
     .abbreviation = NYC
 hello = Hello World!
+day = Hello worold, what a beautiful day!
+
+
