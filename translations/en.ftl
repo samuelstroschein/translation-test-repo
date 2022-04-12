@@ -7,5 +7,3 @@ nyc =
     .abbreviation = NYC
 hello = Hello World!
 day = Hello worold, what a beautiful day!
-
-
