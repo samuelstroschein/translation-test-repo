@@ -1,9 +1,4 @@
-welcome = Welcome to the world of Python
-    .button = Click me
-    .golem = Golem is a tech news website.
-wordle = Sunny a game of wordle!
-nyc =
-    .title = New York City
-    .abbreviation = NYC
-hello = Hello World!
-day = Hello world, what a beautiful day!
+found = Found inlang.config.json file.
+open = Open editor
+directory = Open a directory that contains an inlang.config.json file.
+file = File explorer
