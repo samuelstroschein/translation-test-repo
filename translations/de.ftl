@@ -1,1 +1,1 @@
-jupyter = Willkommen zu diesem schönen Tag.
+jupyter = Willkommen zu dieser schönen Woche.
