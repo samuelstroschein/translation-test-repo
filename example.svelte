@@ -3,3 +3,5 @@
 </script>
 
 <p>{$t("jupyter")}</p>
+
+<p>{$t("button")}</p>
